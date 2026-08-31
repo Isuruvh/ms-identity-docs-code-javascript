@@ -18,7 +18,7 @@
     "@angular/platform-browser": "~17.0.0",
     "@angular/platform-browser-dynamic": "~17.0.0",
     "@angular/router": "~17.0.0",
-    "@azure/msal-angular": "^3.0.23",
+    "@azure/msal-angular": "^6.1.0",
     "@azure/msal-browser": "^3.21.0",
     "bootstrap": "^5.3.1",
     "rxjs": "^7.4.0",
